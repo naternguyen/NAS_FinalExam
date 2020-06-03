@@ -10,9 +10,7 @@ PyTorch Source code for "[Learning Graph Convolutional Network for Skeleton-base
 ## Data Preparation
  - Download the raw data from [NTU-RGB+D](https://github.com/shahroudy/NTURGB-D) and [Skeleton-Kinetics](https://github.com/yysijie/st-gcn). And pre-processes the data.
 
-NTU_data 1: https://doc-10-3s-docs.googleusercontent.com/docs/securesc/kmfrf2j6gujsmaie5oaea4h57ruc9pc2/olfvaef0tpkikojl34fs22804a5oblib/1591150875000/00607138489702656853/04998247827478902439/1CUZnBtYwifVXS21yVg62T-vrPVayso5H?e=download&authuser=0&nonce=6dgqh5mvtcsd4&user=04998247827478902439&hash=roo7c6240velhodf7j1s93pabvgsjite
-
-NTU_data 2: https://doc-00-3s-docs.googleusercontent.com/docs/securesc/kmfrf2j6gujsmaie5oaea4h57ruc9pc2/utdvf5lob0nobfh6ep824bed354rqtl6/1591150950000/00607138489702656853/04998247827478902439/1tEbuaEqMxAV7dNc4fqu1O4M7mC6CJ50w?e=download&authuser=0
+NTU_data : https://doc-08-8k-docs.googleusercontent.com/docs/securesc/3j069ipvovdpbpk6tfjl0ivsp8mbgnpj/6pd0u40lc66nlpbaagu78pis4bs9g4b0/1591180275000/12613012207284062496/12613012207284062496/12OFOZOMyXcHJ6pL22bTnIv_-hnKE8OgS?e=download&authuser=3&nonce=nb0fl8922g4sk&user=12613012207284062496&hash=1s5ivqn193ar5d7s72per1ok7pmbs9ud
  
  - Preprocess the data with
   
